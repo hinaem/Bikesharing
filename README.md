@@ -29,4 +29,4 @@ I've used the below graph to visulaize the most busy times for the service as we
 
 Summary:
 
-To conclude, I have used the data from New York City and have done all the visualizations to have a better understanding of how the service works. I would still say this is not enough to know if this should work for Iowa. I would need to find data to create visualizations on the commute for people in Iowa to see if this would work. Two visualizations I would create is one to see the distances people work. 
+To conclude, I have used the data from New York City and have done all the visualizations to have a better understanding of how the service works. I would still say this is not enough to know if this should work for Iowa. I would need to find data to create visualizations on the commute for people in Iowa to see if this would work. Two visualizations from New York I would create is one to find how many bikes get damaged, etc to see the types of losses in CitiBike and the second would be after providing the service, app, and mantainance, how much profit are we recieving.  
